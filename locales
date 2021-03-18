@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 , TSI
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmpH3scMQeeHM0yaBYZI8FA)/dm/3/x7xs2wx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+#EXTINF:-1 , Canal 5
+https://bcovlive-a.akamaihd.net:443/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_2/chunklist.m3u8
+#EXTINF:-1 , HCH
+https://5d597bfcee285.streamlock.net/hch/hch/.m3u8
+#EXTINF:-1 , La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 , La 2
+https://rtvelivestream-lvlt.rtve.es:443/la2_4000.m3u8
+#EXTINF:-1 , TYC SPORTS
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CtIEk7Edk3isG-vlfbcbnpxF2DTUGRcyAJz1PfYCsE6W97rE_LahiLVUCpFGyGSlzkudLO2iAI9xJddz3KFsWpDSyUVsPFi5vbgKMS2Kukqnj8fsW6I8iEyrixFiyqp3s5o_tBPpvRNM0R218KP-uJ8xT85k2jF_4D1QLET_3w-Nd8Rz5zbXOJQiSUOi7wPaYbobiS5S5Fan6i8ZwKkMCOLrgxK7xRZrEJV8DD_dpkIikS9Z-HaqU1ldljUFTG87MEulMddzaKfE6I8HfT1Tlvux7Ep4qhX07vl95sFTN6qWVqfC-Q3Oza_sncw5X4gJvNePqxz251TN7DgNu8R1o5G8isVHY0LOPl-JPd3Tpg1i92ygdByB-cLQ8Zz0bmA_KcMkACJ_Lr1Vmjts82LKOWLZezirx33QU28CjESxQVEn-rHc9DgGy23CggVxvDy59Jr-09G0TSyqofTyLt2mprx2tOL2-qkJdZqJbScyMlw-vUmMELsnzUgAMT8CeYxkxER_oiBKJW98Thwvu92tJxNOI8ACx7zzPpNM5TNRO3dTrV7tCHGcFCig_615RreXc9DnxkuJDIqYuxTyjsCBYu_tnxVZg6mD3MBeoZsAajs-BMoovAkGged1cuUw91u3AS7KmQBnsziEqIykw69u5t0FWidWtylpcSHB_E8vI1UCayLv6b92M2huN591pqzq7RBQyJrR3H4a9EiS9cAPvadwta2xbW5OP0MoWhVfkWTJQC2FxHnGccGkXXfeclWegdK_OBAY_CpUHI37gQL4EYmLgWezEhC8ihOPkrxiIhIbO-3A1d6jGgzpFkg0bmN65N21b40.m3u8
+#EXTINF:-1 , Canal 26
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1069723754_b1864000_sleng.m3u8
+#EXTINF:-1 , TSI 2
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmpH3scMQeeHM0yaBYZI8FA)/dm/3/x7xs2wx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
